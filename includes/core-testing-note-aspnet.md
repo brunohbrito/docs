@@ -1,5 +1,5 @@
 >[!IMPORTANT]
->If you're testing an ASP.NET application or library, and you are targeting a framework _other_ than `netcoreapp3.0`, you must add an additional package reference: `Microsoft.AspNetCore.App`.
+>If you're testing an ASP.NET Core application, and you're targeting a framework _other_ than `netcoreapp3.0`, you must add an additional package reference: `Microsoft.AspNetCore.App`.
 >
 >```
 >dotnet add package Microsoft.AspNetCore.App
